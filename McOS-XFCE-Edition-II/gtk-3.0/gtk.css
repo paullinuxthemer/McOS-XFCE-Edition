@@ -13098,6 +13098,7 @@ checkbutton label:not(:only-child):last-child{
   border-color: #2b69d2;
 }
 
+#whiskermenu-window entry,
 #whiskermenu-window entry:focus {
   margin-top: 4px;
   margin-bottom: 4px;
